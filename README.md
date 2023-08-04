@@ -1,6 +1,6 @@
 # Scalable Bayesian Tensor Ring Factorization for Multiway Data Analysis
 
-## Discription
+## Description
 
 This is the official implementation for the following paper presented in ICONIP 2023.
 ```
